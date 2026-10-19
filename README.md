@@ -1,4 +1,14 @@
-"# video4k" 
+"# video4k"
+
+Projeto de integração com **Higgsfield AI** para geração de imagens e vídeos em alta qualidade.
+
+## 🚀 Instalação
+
+Clone este repositório e instale as dependências:
+
+```bash
+npm install
+
 Set up Higgsfield for me so I can generate images and videos from here.
 1. Install the CLI: run `npm i -g @higgsfield/cli`.
 2. Authenticate: run `higgsfield auth login` and complete the sign-in in the browser it opens.
